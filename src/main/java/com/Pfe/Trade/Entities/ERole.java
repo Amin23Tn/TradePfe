@@ -1,0 +1,13 @@
+package com.Pfe.Trade.Entities;
+
+public enum ERole {
+    ROLE_COLLABORATEUR,
+    ROLE_MODERATEURSSII,
+    ROLE_MODERATEURCLIENT,
+    ROLE_ADMIN,
+    ROLE_ADMINSSII,
+    ROLE_ADMINCLIENT,
+    ROLE_INDEPENDANT,
+    ROLE_USER
+
+}
